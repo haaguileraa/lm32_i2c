@@ -1,0 +1,57 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Mon Oct 30 17:42:10 2017
+[*]
+[dumpfile] "/home/sebastian/Música/lm32/simulation/system_tb.vcd"
+[dumpfile_mtime] "Mon Oct 30 17:41:17 2017"
+[dumpfile_size] 8903402
+[savefile] "/home/sebastian/Música/lm32/system_tb.vcd.save.sav"
+[timestart] 0
+[size] 1366 714
+[pos] -1 -1
+*-24.860107 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] system_tb.
+[treeopen] system_tb.dut.
+[treeopen] system_tb.dut.i2c0.
+[sst_width] 202
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 187
+@22
+system_tb.dut.i2c0.txr[7:0]
+@28
+system_tb.dut.i2c0.sda
+system_tb.dut.i2c0.scl
+@800022
+system_tb.dut.i2c0.cr[7:0]
+@28
+(0)system_tb.dut.i2c0.cr[7:0]
+(1)system_tb.dut.i2c0.cr[7:0]
+(2)system_tb.dut.i2c0.cr[7:0]
+(3)system_tb.dut.i2c0.cr[7:0]
+(4)system_tb.dut.i2c0.cr[7:0]
+(5)system_tb.dut.i2c0.cr[7:0]
+(6)system_tb.dut.i2c0.cr[7:0]
+(7)system_tb.dut.i2c0.cr[7:0]
+@1001200
+-group_end
+@800022
+system_tb.dut.i2c0.sr[7:0]
+@28
+(0)system_tb.dut.i2c0.sr[7:0]
+(1)system_tb.dut.i2c0.sr[7:0]
+(2)system_tb.dut.i2c0.sr[7:0]
+(3)system_tb.dut.i2c0.sr[7:0]
+(4)system_tb.dut.i2c0.sr[7:0]
+(5)system_tb.dut.i2c0.sr[7:0]
+(6)system_tb.dut.i2c0.sr[7:0]
+(7)system_tb.dut.i2c0.sr[7:0]
+@29
+system_tb.dut.i2c0.wb_stb_i
+@28
+system_tb.dut.i2c0.bit_controller.sta_condition
+system_tb.dut.i2c0.bit_controller.sto_condition
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

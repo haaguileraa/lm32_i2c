@@ -1,0 +1,24 @@
+# ==== Clock inputs (CLK) ====
+NET "clk" LOC = "P84";
+#NET "clk" PERIOD = 20 HIGH 50%;
+#NET  led  LOC = "P39";
+#NET  rst  LOC = "P105";
+
+# ==== UART ====
+#NET "uart_rxd" LOC = "P69";
+#NET "uart_txd" LOC = "P70";
+
+
+
+# ==== I2C ====
+
+NET "i2c_sda" LOC="P82";
+NET "i2c_scl" LOC="P83"; 
+
+NET "gpio_io<0>" LOC="P78";
+NET "gpio_io<1>" LOC="P79";
+NET "gpio_io<2>" LOC="P80";
+NET "gpio_io<3>" LOC="P81";
+NET "gpio_io<4>" LOC="P85";
+NET "gpio_io<5>" LOC="P94";
+NET "gpio_io<6>" LOC="P95";
